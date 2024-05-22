@@ -1,5 +1,5 @@
-### Hi there 👋
-<!--
+Hi there 👋
+
 - 🔭 I’m currently working on creating a Discord bot using Rust
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on creating and programming a Discord bot
