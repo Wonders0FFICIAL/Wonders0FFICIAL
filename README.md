@@ -1,18 +1,32 @@
+# Wonders
+
 ## About Me
-Hey! I'm Wonders. A programmer, gamer, and artist. I mainly focus on web development, but I occasionally dive into app and game projects too. When I'm not coding, I'm probably gaming (a lot) or messing around with art for fun.
+I'm Wonders, and I am a full-stack developer.
 
-I'm also the co-founder of [JR.](https://jrofficial.org), a software tech company where we build cool stuff and push creative ideas. Oh, and I run on coffee, lots of it
+I primarily work with React and Node.js, and I enjoy creating projects that solve practical problems. I also explore app and game development occasionally.
 
+I'm the co-founder of **JR.**
+
+## Featured Projects
+
+### Listify
+Listify is a personal list-making app that lets you create, organize, and manage lists.
+- Tech: HTML, CSS, JS, MongoDB, Cloudinary 
+- Features: Unlimited lists, synced & secure lists, distraction-free site
+- Live: [Listify](https://listify.jrofficial.org/)
 ---
-## Skills
-<div align="center">
-  <br>
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,sass" /><br>
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,django,graphql" /><br>
-  <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,rust,c,cpp,cs,java,kotlin,ruby,rust" /><br>
-  <h3>Database & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,docker,aws,figma,gcp" /><br>
-</div>
+### Junior
+A multi-purpose Discord bot built for the JR. Community server.
+- Tech: Node.js, Discord.js, JSDom, DOMPurity, MongoDB
+- Features: Moderation, Tickets, Roles
+- Live: [Discord Server](https://discord.gg/d4kfXDrcG8)
+ ---
+### JR. Website
+Short description.
+
+- Tech: React.js, Sass, MongoDB
+- Live: [Website](https://new.jrofficial.org/src/pages/home.html) 
+---
+## Links
+- My Website: https://ryan.jrofficial.org/
+- JR.: [https://jrofficial.org](https://new.jrofficial.org/src/pages/home.html)
