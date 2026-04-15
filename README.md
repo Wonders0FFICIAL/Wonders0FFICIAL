@@ -27,5 +27,5 @@ Short description.
 - Live: [Website](https://new.jrofficial.org/src/pages/home.html) 
 ---
 ## Links
-- My Website: https://ryan.jrofficial.org/
+- My Website: https://wonders.jrofficial.org/
 - JR.: [https://jrofficial.org](https://new.jrofficial.org/src/pages/home.html)
