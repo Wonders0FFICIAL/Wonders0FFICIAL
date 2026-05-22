@@ -22,9 +22,9 @@ A multi-purpose Discord bot built for the JR. Community server.
 - Live: [Discord Server](https://discord.gg/d4kfXDrcG8)
  ---
 ### JR. Website
-Short description.
+The website for my software development company.
 - Tech: React.js, Sass, MongoDB
-- Live: [Website](https://new.jrofficial.org/src/pages/home.html) 
+- Live: [Website](https://jrofficial.org/) 
 ---
 ## Links
 - My Website: https://wonders.jrofficial.org/
