@@ -28,4 +28,4 @@ The website for my software development company.
 ---
 ## Links
 - My Website: https://wonders.jrofficial.org/
-- JR.: [https://jrofficial.org](https://new.jrofficial.org/src/pages/home.html)
+- JR.: [https://jrofficial.org](https://jrofficial.org/)
