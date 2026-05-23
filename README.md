@@ -9,22 +9,22 @@ I'm the co-founder of **JR.**
 
 ## Featured Projects
 
-### Listify
-Listify is a list-making website that lets you create, organize, and manage lists.
-- Tech: HTML, CSS, JS, MongoDB, Cloudinary 
-- Features: Unlimited lists, synced & secure lists, distraction-free site
-- Live: [Listify](https://listify.jrofficial.org/)
+### JR. Website
+The website for my software development company.
+- Tech: React.js, Sass, MongoDB
+- Live: [Website](https://jrofficial.org/) 
 ---
 ### Junior
 A multi-purpose Discord bot built for the JR. Community server.
 - Tech: Node.js, Discord.js, JSDom, DOMPurity, MongoDB
 - Features: Moderation, Tickets, Roles
 - Live: [Discord Server](https://discord.gg/d4kfXDrcG8)
- ---
-### JR. Website
-The website for my software development company.
-- Tech: React.js, Sass, MongoDB
-- Live: [Website](https://jrofficial.org/) 
+---
+### Listify
+Listify is a list-making website that lets you create, organize, and manage lists.
+- Tech: HTML, CSS, JS, MongoDB, Cloudinary 
+- Features: Unlimited lists, synced & secure lists, distraction-free site
+- Live: [Listify](https://listify.jrofficial.org/)
 ---
 ## Links
 - My Website: https://wonders.jrofficial.org/
